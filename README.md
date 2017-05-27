@@ -24,6 +24,7 @@ m 6 12742 2931484 1882849 4485 11031 8463
 workrave.py simply scrapes this file for all relevant information and puts it into a pandas dataframe.
 The most interesting information is perhaps statistics on when a user turns on and off the computer. 
 This is registered since the program logs all keyboard and mouse movement. 
-The script gives examples of possible visualisations using matplotlib (workrave.py) and plotly (plotly_workrave.py).
-Note that when running plotly, the resulting visualisations can either be produced as standalone html files or
-<div> elements that can be copied into any html page.  A few example visualisations are found [here](http://htmlpreview.github.io/?https://github.com/oysteinbf/workrave-stats/blob/master/workrave.html).
+The script gives examples of possible visualisations using matplotlib. Visualisations can also be produced
+using [plot.ly](https://plot.ly/) (plotly_workrave.py). Note that when running plotly_workrave.py, the visualisations 
+can either be produced as standalone html files or div elements that can be copied into any html page.  
+A few example visualisations are found [here](http://htmlpreview.github.io/?https://github.com/oysteinbf/workrave-stats/blob/master/workrave.html).
