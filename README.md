@@ -27,4 +27,4 @@ This is registered since the program logs all keyboard and mouse movement.
 The script gives examples of possible visualisations using matplotlib. Visualisations can also be produced
 using [plot.ly](https://plot.ly/) (plotly_workrave.py). Note that when running plotly_workrave.py, the visualisations 
 can either be produced as standalone html files or div elements that can be copied into any html page.  
-A few example visualisations are found [here](http://htmlpreview.github.io/?https://github.com/oysteinbf/workrave-stats/blob/master/workrave.html).
+A few example visualisations are found [here](https://raw.githack.com/oysteinbf/workrave-stats/master/workrave.html).
